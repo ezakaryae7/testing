@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "@types/express": "^5.0.0",
+    "@types/node": "^22.7.5",
+    "cors": "^2.8.5",
+    "express": "^4.21.1",
+    "mysql2": "^3.11.3",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.6.3"
+  },
+  "scripts": {
+    "start": "ts-node src/app.ts"
+  },
+  "devDependencies": {
+    "@types/cors": "^2.8.17"
+  }
+}
